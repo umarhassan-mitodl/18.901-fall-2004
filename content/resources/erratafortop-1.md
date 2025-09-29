@@ -5,6 +5,8 @@ description: This file includes the list of errata and corrections for the cours
 file: /courses/18-901-introduction-to-topology-fall-2004/6b5c389115eec3ad2aeaa75408240c78_erratafortop.pdf
 file_size: 44804
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
