@@ -5,8 +5,6 @@ description: 'Notes H: These Supplementary Notes are optional reading for the co
 file: /courses/18-901-introduction-to-topology-fall-2004/6c00ffbad53d2ffa38d008116b7307aa_notes_h.pdf
 file_size: 151893
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
